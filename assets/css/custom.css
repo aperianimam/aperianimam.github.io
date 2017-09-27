@@ -1,0 +1,15 @@
+.container-flex {
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.img-flex {
+    margin-left: 1.5em;
+    flex-grow: 0;
+}
+
+
+.text-flex {
+    margin: 0.5em 0.5em 0.5em 0.5em;
+    flex-grow: 1;   
+}
