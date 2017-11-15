@@ -3788,8 +3788,8 @@
 			}
 
 				#banner h1 {
-					font-size: 6em;
-					letter-spacing: 0em;
+					font-size: 3em;
+					letter-spacing: .5em;
 				}
 
 		}
@@ -3798,6 +3798,7 @@
 
 			#banner h1 {
 				font-size: 4em;
+				letter-spacing: .15em;
 			}
 
 			#banner .more {
