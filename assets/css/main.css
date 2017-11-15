@@ -3772,6 +3772,9 @@
 				#banner br {
 					display: none;
 				}
+				#banner h1 {
+					font-size: 4em;
+				}
 
 		}
 
@@ -3801,6 +3804,13 @@
 				display: none;
 			}
 
+		}
+
+		@media screen and (max-width: 375px) {
+			
+						#banner h1 {
+							font-size: 3em;
+						}
 		}
 
 		body.is-loading #banner .inner {
