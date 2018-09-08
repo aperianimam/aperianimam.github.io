@@ -17,3 +17,14 @@
     margin: 0.5em 0.5em 0.5em 0.5em;
     flex-grow: 1;   
 }
+
+@media only screen and (max-width: 980px) {
+    .container-flex {
+        flex-wrap: wrap-reverse;
+        justify-content: center;
+    }
+
+    .img-flex {
+        margin: 0em;
+    }
+}
