@@ -1,6 +1,7 @@
 .container-flex {
     display: flex;
     flex-wrap: nowrap;
+    align-items: center;
 }
 
 .img-flex {
@@ -8,6 +9,9 @@
     flex-grow: 0;
 }
 
+.headshot {
+    max-width: 250px;
+}
 
 .text-flex {
     margin: 0.5em 0.5em 0.5em 0.5em;
