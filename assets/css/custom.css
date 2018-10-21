@@ -16,6 +16,12 @@
 .text-flex {
     margin: 0.5em 0.5em 0.5em 0.5em;
     flex-grow: 1;   
+    text-align: justify;
+}
+
+
+.image-center {
+    margin: auto;
 }
 
 @media only screen and (max-width: 980px) {
